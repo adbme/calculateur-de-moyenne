@@ -1,6 +1,10 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 30;
+    padding: 30;
+}
+
+header {
+    background-color: #000461;
 }
 
 .container {
@@ -12,4 +16,65 @@
 .titleH1 {
     display: grid;
     justify-items: center;
+    color: rgb(255, 255, 255);
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.grp1 {
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    text-align: center;
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+
+}
+
+.grp2 {
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    text-align: center;
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.grp3 {
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+.grp4 {
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+.grp5 {
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+.grp6 {
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
 }
