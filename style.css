@@ -1,0 +1,14 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.titleH1{
+    display: grid;
+    justify-items: center;
+}
